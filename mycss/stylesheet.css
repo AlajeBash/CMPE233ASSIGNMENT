@@ -1,0 +1,61 @@
+	body{
+		background-color:#999999;
+	}
+	.container{
+		width:1340px; 
+		height:1600px;"
+		background-color:black;
+	}
+	.top1,.top2,.top3,.top4,.top5,.top6{
+		padding-top:37px;
+		float:left;
+		height:20px;
+		width:223.3px;
+		background-color:#dcdef9;
+		font-size:17px;
+		text-align:center;
+		font-family: Helvetica,lobster;
+		margin-top:-1.8%;
+	}
+	h1{
+		background-color:#6f9871;
+		text-align:center;
+		color:#2c2c2c;
+		font-size:36px;
+		font-family: Courier,Time new roman;
+		height:50px;
+	}
+	.subheading{
+		background-color:#fea3b0;
+		padding-top: 20px;
+		text-align:center;
+		color:yellow;
+		font-size:26px;
+		font-family: lobster;
+		height:50px;
+	}
+	.content{
+		width:1310px;
+		height:800px;
+		float:center;
+		color:#2c2c2c;
+		font-size:20px;
+		text-align:left;
+		font-family: lobster;
+		padding:14px 16px
+	}
+	.footer1{
+		text-align:center;
+		float:left;
+		background-image:url("Images/blockchain 1.jpg"),url("Images/blockchain 2.jpg");
+		background-color:#6f9871;
+		height:200px;
+		width:1340px;
+		font-family:Brush Script,georgia;
+	}
+	p1{
+		float:left;
+		background-color:yellow;
+		height:200px;
+		width:1340px;
+	}
